@@ -9,10 +9,10 @@ Ce projet a été menné de façon itérative en produisant des nouvelles versio
 
 Contenu:  
   Pour chaques versions :  
-    - Dossier contenant les images utilisées dans le site
-    - Fichiers HTML du site
-    - Fichiers CSS du site
-    - Fichiers JavaScript du site (à partir de la V4)
+    - Dossier contenant les images utilisées dans le site  
+    - Fichiers HTML du site  
+    - Fichiers CSS du site  
+    - Fichiers JavaScript du site (à partir de la V4)  
 
 Consignes d'utilisation:  
 Pour visualiser le site, télécharger un des dossiers "Projet_Creation_Site" et ouvrir le fichier "index.html" dans un navigateur.
