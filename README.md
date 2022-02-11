@@ -8,7 +8,7 @@ L'objectif de ce projet était de créer un site (HTML et CSS puis JavaScript) e
 Ce projet a été menné de façon itérative en produisant des nouvelles versions du site de plus en plus avancées.
 
 Contenu:  
-  Pour chaques versions :
+  Pour chaques versions :  
     - Dossier contenant les images utilisées dans le site
     - Fichiers HTML du site
     - Fichiers CSS du site
