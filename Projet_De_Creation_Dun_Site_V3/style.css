@@ -1,0 +1,125 @@
+html {
+  background-color: black;
+}
+
+body {
+  background-color: #faf2e4;
+  border: 3px solid #d1633c;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  margin-right: 10%; 
+  margin-left: 10%; 
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-right: 2%; 
+  padding-left: 2%; 
+  font-family: sans-serif
+}
+
+h1 {
+	margin-top: 30px;
+	border-bottom: 1px solid #57b1dc;
+	font-size: 2em;
+	font: serif;
+	font-weight: normal;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+h2 {
+	color: #d1633c;
+	font-size: 1em;
+}
+
+h3 {
+	color: #d1633c;
+	font-size: 1em;
+}
+
+strong {
+	color: #d1633c;
+}
+
+hr {
+	border-bottom: 1px solid #57b1dc;
+}
+
+span {
+	white-space: nowrap;
+}
+
+footer {
+	color: grey;
+	font-size: 70%;
+	margin-bottom: 10px;
+	font-weight: lighter;
+}
+
+.adresse {
+	font-weight: bold;
+}
+
+.poste {
+	font-variant-caps: small-caps;
+	font-weight: lighter;
+}
+
+.imageLogo {
+	display: block;
+	height: 50px;
+	width: 50px;
+}
+
+.entete {
+	/* couleur au début du TP -> background-color: blue; */
+}
+
+.centre {
+	/* couleur au début du TP -> background-color: green; */
+}
+
+.menu {
+	background-color: #F5D6A1;
+	float: left;
+	width: 12em;
+}
+
+div.menu > ul {
+	list-style-type: none;
+	padding-inline-start: 10px;
+}
+
+.contenu {
+	/* couleur au début du TP -> background-color: red; */
+	margin-left: 14em;
+}
+
+.piedDePage {
+	/* couleur au début du TP -> background-color: orange; */
+	overflow: hidden;
+	width: 100%;
+}
+
+a:hover {
+	background-color: #d1633c;
+}
+
+a:visited {
+	background-color: #57b1dc;
+}
+
+/* on souhaite changer la couleur de fond des liens hypertextes seulement, pas des images contenant un lien */
+a>img:hover {
+	background-color: #faf2e4;
+}
+
+h2 + p::first-letter{
+	font-size: 2em;		/* remarque: ceci n'affecte pas les paragraphes de la page "La brigade" puisqu'ils sont de niveau h3 et non h2 */
+}
+
+#imageCentre {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+	
